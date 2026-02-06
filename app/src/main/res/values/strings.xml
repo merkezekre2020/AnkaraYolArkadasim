@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ankara Yolculuk Music</string>
+    <string name="app_description">Ankara yolculuğuna özel müzik keşfedin</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="error">Bir hata oluştu</string>
+    <string name="retry">Tekrar Dene</string>
+    <string name="ankara_havaları">Ankara Havaları</string>
+    <string name="gece_sürüşü">Gece Sürüşü - Deep House</string>
+    <string name="yol_hikayeleri">Yol Hikayeleri - Akustik</string>
+    <string name="bozkır_müzikleri">Bozkır Müzikleri</string>
+    <string name="şarkı_detayları">Şarkı Detayları</string>
+    <string name="sanatçı">Sanatçı</string>
+    <string name="albüm">Albüm</string>
+    <string name="dakika">dakika</string>
+    <string name="saniye">saniye</string>
+</resources>
